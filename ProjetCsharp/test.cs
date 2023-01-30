@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProjetCsharp.NewFolder;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,7 +20,8 @@ namespace ProjetCsharp
     {
         void main()
         {
-
+            
+            /*
             Console.WriteLine("Hello, World!");
 
             int a;
@@ -71,7 +73,7 @@ namespace ProjetCsharp
                 }
                 if (val % 2 == 0) break;
                 Console.WriteLine(val);
-            }
+            }*/
         }
     }
 }

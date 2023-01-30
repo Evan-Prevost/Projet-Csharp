@@ -20,13 +20,13 @@ namespace ProjetCsharp.Combat
         {
             _strenght = value;
         }
-        public void Level.LevelUp(int addStrenght)
+        /*public void Level.LevelUp(int addStrenght)
         {
             if (LevelUp = true)
             {
                 _strenght += addStrenght;
             }
-        }
+        }*/
         public void TotalStrenght()
         {
             _strenght= Math.Abs(_strenght + _modifStrenght);
